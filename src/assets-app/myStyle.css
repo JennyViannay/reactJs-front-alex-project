@@ -1,0 +1,86 @@
+body {
+    margin: 5em;
+}
+
+.textBlack {
+    color: #000000 !important;
+}
+
+.textWhite {
+    color: #ffffff !important;
+}
+
+.textRed {
+    color: #fe0016 !important;
+}
+
+.textBlue {
+    color: #5400fe !important;
+}
+
+.textGreen {
+    color: #00fe00 !important;
+}
+
+.textYellow {
+    color:  #FC0;
+}
+
+.hoverLink:hover {
+    color : #fe0016 !important;
+}
+
+.textShadow {
+    text-shadow: #ffffff 1px 0 10px;
+}
+
+.bgPurple {
+    background-color: #403cfd;
+}
+
+.bgGrey {
+    background-color: #ffffff;
+    color: black;
+}
+
+.bgImageHeader {
+    background-image: url('https://images.sex.com/images/pinporn/2017/01/19/300/17243240.gif');
+    opacity: 0.7;
+}
+
+.navLogo {
+    width: 150px;
+}
+
+.tabContent {
+    color: #0d0c09;
+}
+
+.gifBodyCard img {
+    width: 100%;
+    height: 100%;
+}
+
+.tabContent p {
+    color: #ffffff;
+}
+
+#message {
+    font-size: 15px;
+    color: #000000;
+}
+
+.member-card .avatar > img {
+    width: 80px;
+    height: 80px;
+    border-radius: 50%;
+}
+
+.like {
+    background-color: transparent;
+    border: none;
+}
+
+
+
+
